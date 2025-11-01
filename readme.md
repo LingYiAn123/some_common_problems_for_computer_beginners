@@ -4,7 +4,7 @@
 
 ## vsc在win上配置复杂，于是使用vs和小熊猫
 
-在了解注册表机制，vim使用方法，nano使用方法(ai常用)，部分Linux的debian系命名，参考官方文档后解决vsc配置问题  
+在了解注册表机制，vim使用方法，nano使用方法(ai常用)，部分Linux的debian系命令，参考官方文档后，可比较顺利配置
 <br>
 <br>
 <br>
